@@ -1,18 +1,17 @@
 {
-	"casesData": [
-		{
-			caseNumber: "12435",
-			companyName: "Janusz Travel",
-			statementContent: "Oświadczam, że organizator/przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych Janusz Travel z siedzibą w ul. Koślawa 25/3, 01-222 Warszawa nie wykonał względem mnie zobowiązań umownych o wartości wskazanej powyżej.",
-			insuranceStartDate: "2019-01-01",
-			guaranteeEndDate: "2019-03-01"
+	"casesData": [{
+			"caseNumber": "12435",
+			"companyName": "Janusz Travel",
+			"statementContent": "Oświadczam, że organizator/przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych Janusz Travel z siedzibą w ul. Koślawa 25/3, 01-222 Warszawa nie wykonał względem mnie zobowiązań umownych o wartości wskazanej powyżej.",
+			"insuranceStartDate": "2019-01-01",
+			"guaranteeEndDate": "2019-03-01"
 		},
 		{
-			caseNumber: "6789",
-			companyName: "Travelpolex",
-			statementContent: "Oświadczam, że organizator/przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych Janusz Travel z siedzibą w ul. Koślawa 25/3, 01-232 Warszawa nie wykonał względem mnie zobowiązań umownych o wartości wskazanej powyżej.",
-			insuranceStartDate: "2018-01-01",
-			guaranteeEndDate: "2018-03-01"
+			"caseNumber": "6789",
+			"companyName": "Travelpolex",
+			"statementContent": "Oświadczam, że organizator/przedsiębiorca ułatwiający nabywanie powiązanych usług turystycznych Janusz Travel z siedzibą w ul. Koślawa 25/3, 01-232 Warszawa nie wykonał względem mnie zobowiązań umownych o wartości wskazanej powyżej.",
+			"insuranceStartDate": "2018-01-01",
+			"guaranteeEndDate": "2018-03-01"
 		}
 	]
 }
